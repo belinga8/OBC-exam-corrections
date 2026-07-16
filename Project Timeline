@@ -1,0 +1,17 @@
+## Phase 1: setup(week 1)
+-[] Set up database
+-[] Create login/registration
+-[] Create admin area to add exams
+##Phase 2: core app( week 2-3)
+-[] Show list  of exams
+-[] Sow exam details & corrections
+-[] search for exams
+##phase 3: payements(week 4)
+-[] Add payelnt system
+-[] set up 1-month free plan
+##Phase 4: POLish & deployemt(week 5)
+-[] Fix bugs
+-[] make it look nice
+-[] deploy online
+##Phase 5: AI Intergration(later)
+-Add ai explanation
